@@ -1,0 +1,1 @@
+@"c:\users\s165173\desktop\django-ass2\myproject\myvenv\scripts\python.exe" "c:\users\s165173\desktop\django-ass2\myproject\myvenv\Scripts\markdown_py" %*
